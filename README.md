@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Analista de TI Júnior na Asteca contabilidade
-- 🌱 Estou estudando JavaScript | Fazendo pós-graduação em cibersegurança na PUCPR
+- 🔭 Analista de TI Júnior na Asteca Contabilidade
+- 🌱 Estou estudando JavaScript | Fazendo pós em cibersegurança na PUCPR
 
 ## Minhas skills
 <p align="center">
