@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Sara Moreira
 
 <!--
 **Sara1502/Sara1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
