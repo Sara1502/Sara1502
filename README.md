@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-
 <!--
 **Sara1502/Sara1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Analista de TI Júnior na Asteca contabilidade
+- 🌱 Estou estudando JavaScript | Fazendo pós-graduação em cibersegurança na PUCPR
+
+## Minhas skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,py,tensorflow,django,git,github,mysql,sqlite," />
+  </a>
+</p>
+
