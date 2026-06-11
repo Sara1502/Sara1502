@@ -25,3 +25,18 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com?user=sara1502&theme=radical&hide_border=true" 
+      />
+    </td>
+
+<td>
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sara1502&theme=radical" 
+      />
+    </td>
+  </tr>
+</table>
