@@ -30,12 +30,9 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <img 
-        src="https://github-readme-streak-stats.herokuapp.com?user=sara1502&theme=dark&hide_border=true" 
-      />
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sara1502&theme=dark&exclude_days=Sun%2CSat" alt="GitHub Streak" />
     </td>
-
-<td>
+    <td>
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sara1502&theme=dark" 
       />
