@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sara1502&theme=dark&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sara1502&theme=dark" alt="GitHub Streak" />
     </td>
     <td>
       <img 
