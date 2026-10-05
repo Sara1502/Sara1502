@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Analista de TI Júnior na Asteca Contabilidade
-- 🌱 Fazendo pós em cibersegurança na PUCPR
+- 🌱 Cursando pós em cibersegurança na PUCPR
 
 ## Minhas skills
 <p align="center">
